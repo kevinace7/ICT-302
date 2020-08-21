@@ -1,4 +1,4 @@
-baseURL =  "https://luv.org.netlify.app/"
+baseURL =  "http://luv.org.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
