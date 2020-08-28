@@ -10,8 +10,4 @@ Hello I'm Kev, the picture that you see is Juice WRLD, the reason why he is disp
 
 This is a link to one of my favorite cars [BMW X4M](https://www.bmwusa.com/vehicles/x-models/x4/sports-activity-coupe/overview.html).
 
-<ul>
-<li>Kanye West.</li>
-<li>Lil Uzi Vert.</li>
-<li>Juice WRLD.</li>
-</ul>
+This is a link to one of my favorite songs [Ghost Town](https://www.youtube.com/watch?v=UVLSjeY9770).
