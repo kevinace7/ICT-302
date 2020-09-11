@@ -40,19 +40,16 @@ name = "Introduction"
 weight = 1
 url = "/introduction/"
 
-[params]
 [[menu.main]]
 name = "Dummy Annotated Def"
 weight = 2
 url = "/dummyannotateddef/"
 
-[params]
 [[menu.main]]
 name = "Dummy Resource Guide"
 weight = 3
 url = "/dummyresource/"
 
-[params]
 [[menu.main]]
 name = "Dummy Walkthrough"
 weight = 4
