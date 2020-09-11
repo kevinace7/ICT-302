@@ -1,3 +1,9 @@
+---
+title: "Dummy Weekly"
+date: 2020-09-11T00:00:00-04:00
+draft: false
+---
+
 I'm trying not to, kid. Dantooine. They're on Dantooine. A tremor in the Force. The last time I felt it was in the presence of my old master. Don't underestimate the Force. I'm surprised you had the courage to take the responsibility yourself.
 
 What good is a reward if you ain't around to use it? Besides, attacking that battle station ain't my idea of courage. It's more like…suicide. I want to come with you to Alderaan. There's nothing for me here now. I want to learn the ways of the Force and be a Jedi, like my father before me.
