@@ -1,6 +1,6 @@
 baseURL =  "https://luvisrage.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "LUVisRAGE WEBSITE"
 theme = "hugo-theme-m10c-master"
 
 [build]
@@ -54,3 +54,10 @@ url = "/dummyresource/"
 name = "Dummy Walkthrough"
 weight = 4
 url = "/dummywalkthrough/"
+
+[params.style]
+  darkestColor = "#d35050"
+  darkColor = "#212121"
+  lightColor = "#f5e3e0"
+  lightestColor = "#f5f5f5"
+  primaryColor = "#fff"
