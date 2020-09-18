@@ -1,7 +1,7 @@
 baseURL =  "https://luvisrage.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ticky_tacky_dark-master"
+theme = "hugo-theme-terminal-master"
 
 [build]
 publish = "public"
