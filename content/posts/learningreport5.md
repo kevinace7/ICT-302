@@ -4,7 +4,7 @@ date: 2020-09-20T00:00:00-04:00
 draft: false
 ---
 
-* I can identify and define key concepts in (web) content management.
+* I can identify and define key concepts in (web) content management:
 For this week I have a even better understanding when it comes to key concepts, since this week we learned presemtation and content. When it came to presentation it's all about designs, and the aesthetic of a figure. When it's content it's about what you are going to gain from the oragnization by looking into them. 
 * I can describe and compare content management systems.
 I think when it came to this weeks lesson it was more about identifying what is more for show and what can actually make someone interested in what they are showing to their audience. 
